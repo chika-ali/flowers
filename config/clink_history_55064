@@ -1,0 +1,10 @@
+cd ..
+node -v
+mpm -v
+npn -v
+npm -v
+npx creat react-app cours-react
+npx create react-app cours-react
+npx create-react-app cours-react
+cd cours-react\
+code .
